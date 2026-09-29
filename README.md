@@ -12,7 +12,7 @@ What I work with
 
 A couple of things I've built
 
-AI Document Q&A Assistant — a RAG system (LangChain + FAISS/ChromaDB + FastAPI) that answers questions grounded in uploaded PDFs, with a document processing pipeline for chunking and embedding.
+AI Document Q&A Assistant — a RAG system (LangChain + FAISS + FastAPI) that answers questions grounded in uploaded PDFs, with a document processing pipeline for chunking and embedding.
 AI SQL Query & Database Support Assistant — a text-to-SQL tool that turns natural-language questions into validated, schema-aware SQL queries.
 
 📍 Chennai, Tamil Nadu, India
